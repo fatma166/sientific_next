@@ -1,0 +1,6 @@
+export { default as ChildrenIcon } from './ChildrenIcon'
+export { default as EngIcon } from './EngIcon'
+export { default as FoodIcon } from './FoodIcon'
+export { default as HealthyIcon } from './HealthyIcon'
+export { default as PhotograpyIcon } from './PhotograpyIcon'
+export { default as RomanceIcon } from './RomanceIcon'

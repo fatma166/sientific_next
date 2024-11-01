@@ -1,0 +1,20 @@
+import React from 'react'
+
+const COOKIE_PREFIX = 'COO_GDPR_'
+
+const COOKIE_NECESSARY = COOKIE_PREFIX + 'COOKIE_NECESSARY'
+const COOKIE_PREFERENCES = COOKIE_PREFIX + 'COOKIE_PREFERENCES'
+const COOKIE_STATISTICS = COOKIE_PREFIX + 'COOKIE_STATISTICS'
+const COOKIE_MARKETING = COOKIE_PREFIX + 'COOKIE_MARKETING'
+
+
+
+const useCookie = () => {
+
+
+
+
+  return {}
+}
+
+export default useCookie
